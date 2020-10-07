@@ -112,7 +112,7 @@ video{position: absolute;z-index: 1;}
 .vw_content p i{color:#c00;font-style: normal;}
 
 /****/
-.video_mask{position: absolute;width: 100%;height:100%;top:0;left:0;z-index: 1;background:url(../src/v_logo.png) no-repeat right top;}
+.video_mask{position: absolute;width: 100%;height:100%;top:0;left:0;z-index: 1;}
 
 /**plugins**/
 #tiptip_holder {display: none;position: absolute;	top: 0;	left: 0;z-index: 7;}
